@@ -7,3 +7,4 @@ aaaaaaaaa
 77777777777777777777  by yhx
 test ssh
 testsshhhhshshshshshshs
+test Gitee
